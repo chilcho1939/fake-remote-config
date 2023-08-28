@@ -1,9 +1,13 @@
-"version": {
-    "validarVersionAndroid": false,
-    "updateLinkiOS": "",
-    "validarVersioniOS": false,
-    "versionActualiOS": "1.0.0",
-    "updateLinkAndroid": "",
-    "versionActualAndroid": "0.0.1"
-},
-"server": "https://..."
+{
+    "propterties": {
+        "version": {
+            "validarVersionAndroid": false,
+            "updateLinkiOS": "",
+            "validarVersioniOS": false,
+            "versionActualiOS": "1.0.0",
+            "updateLinkAndroid": "",
+            "versionActualAndroid": "0.0.1"
+        },
+        "server": "https://..."
+    }
+}
