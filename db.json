@@ -1,5 +1,5 @@
 {
-    "propterties": {
+    "propterties": [
         "version": {
             "validarVersionAndroid": false,
             "updateLinkiOS": "",
@@ -9,5 +9,5 @@
             "versionActualAndroid": "0.0.1"
         },
         "server": "https://..."
-    }
+    ]
 }
